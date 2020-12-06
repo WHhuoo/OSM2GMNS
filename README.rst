@@ -39,7 +39,7 @@ or `QGis <https://qgis.org/>`_.
 Download the map
 -------------
 
-    Open`OpenStreetMap <https://www.openstreetmap.org/>`_  
-    Click the Export/ Export button at the top of the page.  
-    Click on the "Manually select a company area", and then you can choose in the map on the right side area.  
-    Click the blue "Export" button in the left operation area of the page to save the *.osM file in the target area.
+    （1）Open`OpenStreetMap <https://www.openstreetmap.org/>`_  
+    （2）Click the Export/ Export button at the top of the page.  
+    （3）Click on the "Manually select a company area", and then you can choose in the map on the right side area.  
+    （4）Click the blue "Export" button in the left operation area of the page to save the *.osM file in the target area.
