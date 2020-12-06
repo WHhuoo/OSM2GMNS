@@ -35,3 +35,10 @@ You can visualize generated networks using `NeXTA <https://github.com/xzhou99/Ne
 or `QGis <https://qgis.org/>`_.
 
 .. image:: https://github.com/jiawei92/OSM2GMNS/blob/master/test/asu.PNG
+
+Download the map
+-------------
+Open`OpenStreetMap <https://www.openstreetmap.org/>`_  
+Click the Export/ Export button at the top of the page.  
+Click on the "Manually select a company area", and then you can choose in the map on the right side area.  
+Click the blue "Export" button in the left operation area of the page to save the *.osM file in the target area.
